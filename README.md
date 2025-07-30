@@ -1,5 +1,7 @@
 **Inclusive Language Check Extension for Visual Studio 2022**
 
+VSIX Installable: https://github.com/bpknida/Inclusive-Language-Check/releases/tag/V2.1
+
 This extension scans your current solution for any violations of inclusive language guidelines.
 
 **Installation Instructions:**
