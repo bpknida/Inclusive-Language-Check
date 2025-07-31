@@ -10,7 +10,7 @@ This extension scans your current solution for any violations of inclusive langu
 
 **Accessing the Extension:** Once installed, a new menu item will appear under the Extensions menu in Visual Studio.
 
-<img width="550" height="193" alt="image" src="https://github.com/user-attachments/assets/3774f0b3-d978-462a-90ef-5d2d58734feb" />
+<img width="550" height="193" alt="image" src="assets/472531236-3774f0b3-d978-462a-90ef-5d2d58734feb.png" />
 
 
 **Using the Extension:**
@@ -22,7 +22,7 @@ This extension scans your current solution for any violations of inclusive langu
 **View Violations:** Any violations will be displayed in the Output Window as a list of line items. You can click on any of these items to navigate directly to the location in the code where the violation occurred.
 
 
-<img width="1122" height="515" alt="image" src="https://github.com/user-attachments/assets/12b0313e-70d3-4a18-a9ab-1daf963dbef9" />
+<img width="1122" height="515" alt="image" src="assets/472536401-12b0313e-70d3-4a18-a9ab-1daf963dbef9.png" />
 
 
 **Customization Options:**
@@ -34,7 +34,7 @@ This extension scans your current solution for any violations of inclusive langu
 **Multithreaded Scanning:** The scanning process runs on a multithreaded model. You can configure the number of threads used for scanning, based on your system's load and performance preferences.
 
 
-<img width="640" height="341" alt="image" src="https://github.com/user-attachments/assets/5b17af8a-dc44-4997-b235-7990771c6a1a" />
+<img width="640" height="341" alt="image" src="assets/472539179-5b17af8a-dc44-4997-b235-7990771c6a1a.png" />
 
 
 
